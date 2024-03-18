@@ -12,4 +12,4 @@
 
 ## Ou
 
-Entre pelo link: <a href="https://desafio-it-academy.vercel.app/">https://desafio-it-academy.vercel.app/</a>
+Entre pelo link: <a href="https://secret-word-xi-ashen.vercel.app/">https://secret-word-xi-ashen.vercel.app/</a>
